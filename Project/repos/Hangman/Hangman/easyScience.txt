@@ -1,0 +1,13 @@
+astronomy, thien van hoc
+atom, nguyen tu
+chemical, hoa chat
+chemistry, hoa hoc
+climate, khi hau
+biology, sinh hoc
+physics, vat ly
+electricity, dien
+cell, te bao
+organism, sinh vat
+fossil, hoa thach
+laboratory, phong nghien cuu
+mass, khoi luong

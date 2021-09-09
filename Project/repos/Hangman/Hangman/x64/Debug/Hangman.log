@@ -1,0 +1,15 @@
+﻿  AiFuntion.cpp
+  AIGuess.cpp
+  AIOrHuman.cpp
+C:\Users\default.LAPTOP-3LAP514K\OneDrive\Documents\Project\repos\Hangman\Hangman\AIOrHuman.cpp(33,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\default.LAPTOP-3LAP514K\OneDrive\Documents\Project\repos\Hangman\Hangman\AIOrHuman.cpp(64,15): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\default.LAPTOP-3LAP514K\OneDrive\Documents\Project\repos\Hangman\Hangman\AIOrHuman.cpp(84,13): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  draw.cpp
+  Hangman.cpp
+C:\Users\default.LAPTOP-3LAP514K\OneDrive\Documents\Project\repos\Hangman\Hangman\Hangman.cpp(10,6): warning C4101: 'category': unreferenced local variable
+C:\Users\default.LAPTOP-3LAP514K\OneDrive\Documents\Project\repos\Hangman\Hangman\Hangman.cpp(11,6): warning C4101: 'level': unreferenced local variable
+  renderingGame.cpp
+  start.cpp
+  Generating Code...
+C:\Users\default.LAPTOP-3LAP514K\OneDrive\Documents\Project\repos\Hangman\Hangman\renderingGame.cpp(41): warning C4715: 'guessLetter': not all control paths return a value
+  Hangman.vcxproj -> C:\Users\default.LAPTOP-3LAP514K\OneDrive\Documents\Project\repos\Hangman\x64\Debug\Hangman.exe
