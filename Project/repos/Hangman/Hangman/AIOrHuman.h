@@ -11,8 +11,8 @@
 #include <ctime>
 #include <set>
 #include <Windows.h>
-#include "MMSystem.h
-#pragma comment(lib, "Winmm.lib")"
+#include "MMSystem.h"
+#pragma comment(lib, "Winmm.lib")
 #include "draw.h"
 #include "start.h"
 #include "renderingGame.h"
